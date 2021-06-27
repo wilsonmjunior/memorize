@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9673098C2687AC0900E5A0F6 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9673098B2687AC0900E5A0F6 /* CardView.swift */; };
 		967BCEF22638D17500B1BD6C /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967BCEF12638D17500B1BD6C /* MemorizeApp.swift */; };
 		967BCEF42638D17500B1BD6C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967BCEF32638D17500B1BD6C /* ContentView.swift */; };
 		967BCEF62638D17600B1BD6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 967BCEF52638D17600B1BD6C /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9673098B2687AC0900E5A0F6 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		967BCEEE2638D17500B1BD6C /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		967BCEF12638D17500B1BD6C /* MemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeApp.swift; sourceTree = "<group>"; };
 		967BCEF32638D17500B1BD6C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				967BCEF52638D17600B1BD6C /* Assets.xcassets */,
 				967BCEFA2638D17600B1BD6C /* Info.plist */,
 				967BCEF72638D17600B1BD6C /* Preview Content */,
+				9673098B2687AC0900E5A0F6 /* CardView.swift */,
 			);
 			path = Memorize;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				967BCEF42638D17500B1BD6C /* ContentView.swift in Sources */,
+				9673098C2687AC0900E5A0F6 /* CardView.swift in Sources */,
 				967BCEF22638D17500B1BD6C /* MemorizeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
